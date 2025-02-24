@@ -1,0 +1,21 @@
+{
+    "name": "pedro-aw/biblioteca-utils",
+    "description": "Uma biblioteca de utilitários",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PedroAw\\BibliotecaUtils\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pedro",
+            "email": "pedrozz196@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
